@@ -8,5 +8,5 @@ hello
 
 [![Releases](https://img.shields.io/github/release/careykva/sem/all.svg?style=flat-square)](https://github.com/careykva/sem/releases)
 
-https://img.shields.io/github/workflow/status/careykva/groupfour/main.yml/develop?style=flat-square
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/careykva/groupfour/main.yml/develop?style=flat-square)
 
