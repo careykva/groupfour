@@ -7,3 +7,6 @@ hello
 [![LICENSE](https://img.shields.io/github/license/careykva/sem.svg?style=flat-square)](https://github.com/careykva/sem/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/careykva/sem/all.svg?style=flat-square)](https://github.com/careykva/sem/releases)
+
+https://img.shields.io/github/workflow/status/careykva/groupfour/main.yml/develop?style=flat-square
+
