@@ -8,5 +8,5 @@ hello
 
 [![Releases](https://img.shields.io/github/release/careykva/sem/all.svg?style=flat-square)](https://github.com/careykva/sem/releases)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/careykva/groupfour/main.yml/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/careykva/groupfour/A workflow for my Hello World App/develop?style=flat-square)
 
